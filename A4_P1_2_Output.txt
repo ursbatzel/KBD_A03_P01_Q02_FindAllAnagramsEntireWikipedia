@@ -1,0 +1,5 @@
+act -  cat act tac
+cit -  tic
+eht -  the
+eot -  toe
+in -  in
